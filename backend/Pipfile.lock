@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a15cf15f7c63ff0e05b8b05a7263384681fa5f0f4a2dc5defa630fd861e59fad"
+            "sha256": "0e0a53c1012d06cb7c658ad33dcf2fcc581d0a1c0dd456ef07eb365ed72dfd61"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -67,6 +67,10 @@
         "cb-django-calendly": {
             "editable": true,
             "path": "./modules/django_calendly"
+        },
+        "cb-django-disqus": {
+            "editable": true,
+            "path": "./modules/django_disqus"
         },
         "certifi": {
             "hashes": [
