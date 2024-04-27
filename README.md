@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [social-feed]()
 - [django-ocr](backend/modules)
 - [react-native-typeform-webhook](modules/typeform-webhook)
+- [react-native-image-gallery](modules/image-gallery)
 
 # Getting started: Frontend
 
