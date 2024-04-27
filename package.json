@@ -18,6 +18,7 @@
     "@modules/faq": "file:./modules/faq",
     "@modules/maps": "file:./modules/maps/",
     "@modules/qr-code": "file:./modules/qr-code/",
+    "@modules/social-feed": "file:./modules/social-feed",
     "@react-native-masked-view/masked-view": "^0.2.9",
     "@react-navigation/native": "^6.1.6",
     "@react-navigation/native-stack": "6.5.0",
